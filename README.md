@@ -30,7 +30,7 @@ seaborn==0.13.*
 2. Open terminal/command prompt
 3. Execute:
    python book_recommendation_system_ds8001.py
-   ### Expected Output (excerpt)
+   ### Expected Output
 Greedy Popularity Top 5:
    1. The Lovely Bones...                         → 50.05
 Gradient-Descent MF final RMSE = 0.792
